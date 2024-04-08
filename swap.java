@@ -18,7 +18,7 @@ class GFG {
     public static void main(String[] args)
     {
         // Random integer values
-        int m = 9, n = 7;
+        int m = 3, n = 4;
 
         // Calling above function to
         // reverse the numbers
